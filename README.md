@@ -4,6 +4,8 @@ A durable venture journal for finding, testing, and shaping simple solo-SaaS opp
 
 The primary market is the United States. Indonesia is a secondary expansion market when the customer, distribution channel, or product economics make it relevant.
 
+**Business model scope:** B2B, B2B2C, and B2C are all allowed. Ideas are not required to be B2B-only.
+
 ## Navigate
 
 - [ChatGPT / Codex operating space](chatgpt/README.md)
@@ -25,6 +27,7 @@ The primary market is the United States. Indonesia is a secondary expansion mark
 - ChatGPT, Codex, Claude, Cursor, and Gemini may contribute. Preserve prior entries, append or create new agent-scoped files rather than rewriting history, and attribute every material change with the contributing agent and date.
 - Every entry must separate **Verified evidence**, **Inference**, and **Assumptions**.
 - Favor simple web apps that one strong developer can build, monetize through Stripe, and distribute clearly. Avoid generic AI wrappers; AI must serve a specific workflow advantage.
+- Scouts may target B2B, B2B2C, or B2C; state who pays and who uses.
 
 ## Contribution flow
 

@@ -4,12 +4,14 @@
 
 Research **exactly one** solo-SaaS opportunity today. The primary market is the United States; assess Indonesia only as a secondary expansion market when relevant.
 
+**Business model scope:** B2B, B2B2C, and B2C are all allowed. Do not force every idea into B2B. Name the motion clearly (who pays, who uses, and whether an intermediary is involved).
+
 Use Google Trends and current, credible web sources. Inspect relevant GitHub projects to assess founder-market fit, technical feasibility, and build fit for one strong developer. Preserve source URLs and state collection dates.
 
 Apply this consulting framework:
 
 1. **Trend durability** — distinguish a durable demand shift from a short-lived spike.
-2. **Customer and JTBD** — name the specific buyer, user, and job to be done.
+2. **Customer and JTBD** — name the motion (B2B / B2B2C / B2C), the specific buyer (who pays), user (who uses), and job to be done.
 3. **Pain evidence** — cite observable complaints, workarounds, spend, or urgency.
 4. **Alternatives** — map incumbent tools, manual workarounds, and their gaps.
 5. **Wedge** — define the narrow initial use case and why it can win.
@@ -36,4 +38,4 @@ Apply this consulting framework:
 
 ## Quality bar
 
-Prefer a focused web app that can be built by one strong developer, offers a clear Stripe-backed purchase path, and solves a real workflow with a defendable wedge. A concept without credible pain evidence, distribution, or falsifiable validation should remain **Watch** or be **Rejected**.
+Prefer a focused web app that can be built by one strong developer, offers a clear Stripe-backed purchase path (subscription, one-off, or usage), and solves a real workflow with a defendable wedge. B2B, B2B2C, and B2C are all in scope when the buyer, distribution, and willingness-to-pay story is credible. A concept without credible pain evidence, distribution, or falsifiable validation should remain **Watch** or be **Rejected**.
