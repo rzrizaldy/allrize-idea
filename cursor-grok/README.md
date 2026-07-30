@@ -8,7 +8,7 @@ Write only: `trend-journal/YYYY-MM-DD-cursor.md`
 
 Do not create or edit `…-chatgpt.md`, `…-claude.md`, or `…-gemini.md`. If your own agent-day file already exists, append an attributed section inside it.
 
-Follow the shared scout framework in [chatgpt/DAILY_SAAS_SCOUT.md](../chatgpt/DAILY_SAAS_SCOUT.md) and the templates under `chatgpt/templates/`. Preserve prior entries in your file, attribute material changes, and distinguish **Verified evidence**, **Inference**, and **Assumptions**.
+Follow the shared scout framework in [chatgpt/DAILY_SAAS_SCOUT.md](../chatgpt/DAILY_SAAS_SCOUT.md) and the templates under `chatgpt/templates/`. Preserve prior entries in your file, attribute material changes, and distinguish **Verified evidence**, **Inference**, and **Assumptions**. Opportunities may be **B2B, B2B2C, or B2C** — not B2B-only.
 
 ## Navigate
 

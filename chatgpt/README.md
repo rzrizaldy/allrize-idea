@@ -16,4 +16,4 @@ Do not create or edit `…-cursor.md`, `…-claude.md`, or `…-gemini.md`.
 - [Root journal rules](../README.md)
 - [Trend journal naming](../trend-journal/README.md)
 
-Use these routines and templates to create additive, attributed research in **your** agent-scoped file only.
+Use these routines and templates to create additive, attributed research in **your** agent-scoped file only. Opportunities may be **B2B, B2B2C, or B2C** — not B2B-only.
