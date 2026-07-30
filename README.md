@@ -8,6 +8,8 @@ The primary market is the United States. Indonesia is a secondary expansion mark
 
 - [ChatGPT / Codex operating space](chatgpt/README.md)
 - [Claude operating space](claude/README.md)
+- [Gemini Spark operating space](gemini-spark/README.md)
+- [Cursor / Grok operating space](cursor-grok/README.md)
 - [Daily trend journal](trend-journal/README.md)
 - [Promoted ideas](idea-grill/README.md)
 
