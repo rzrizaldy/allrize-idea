@@ -16,6 +16,8 @@ Each agent writes **only** its own file for the day. Do not edit another agentâ€
 
 Each entry must preserve prior work in that file, attribute material changes, and separate **Verified evidence**, **Inference**, and **Assumptions**.
 
+Opportunities may be **B2B, B2B2C, or B2C** â€” not B2B-only. State the motion and who pays.
+
 ## Navigate
 
 - [Root journal rules](../README.md)

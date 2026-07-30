@@ -3,7 +3,7 @@
 **Contributor:** [ChatGPT/Codex | Claude | Cursor | Gemini]
 **File:** `trend-journal/YYYY-MM-DD-<agent>.md` (chatgpt | claude | cursor | gemini)
 **Market:** United States first; Indonesia relevance: [relevant / not yet established]
-**Customer type:** B2B / B2B2C / B2C [for B2B2C, name both sides and say which one pays]
+**Motion:** B2B / B2B2C / B2C [for B2B2C, name both sides and say which one pays]
 **Verdict:** Build / Watch / Reject
 
 ## Summary
@@ -29,6 +29,8 @@
 ### Trend durability
 
 ### Customer and JTBD
+
+[Motion + buyer who pays + user who uses + JTBD.]
 
 ### Pain evidence
 

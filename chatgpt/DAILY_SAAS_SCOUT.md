@@ -4,14 +4,16 @@
 
 Research **exactly one** solo-SaaS opportunity today. The primary market is the United States; assess Indonesia only as a secondary expansion market when relevant.
 
-**Customer type is open.** B2B, B2B2C, and B2C are all in scope. Do not reject an opportunity because it sells to consumers, and do not favour a business buyer by default. Pick whichever customer type the evidence actually supports, then hold it to the same bar: real pain evidence, a credible willingness to pay, and a repeatable acquisition path. Note that the evidence you need differs by type. B2B and B2B2C usually turn on a named buyer, a budget, and a workflow. B2C usually turns on volume, retention, and cost of acquisition versus lifetime value, so a B2C entry must address churn and CAC explicitly rather than assuming them away.
+**Business model scope:** B2B, B2B2C, and B2C are all allowed. Do not force every idea into B2B. Name the motion clearly (who pays, who uses, and whether an intermediary is involved).
+
+Hold every motion to the same bar: real pain evidence, a credible willingness to pay, and a repeatable acquisition path. The evidence that satisfies that bar differs by motion. B2B and B2B2C usually turn on a named buyer, a budget, and a workflow. B2C usually turns on volume, retention, and acquisition cost versus lifetime value, so a B2C entry must address churn and CAC explicitly rather than assuming them away.
 
 Use Google Trends and current, credible web sources. Inspect relevant GitHub projects to assess founder-market fit, technical feasibility, and build fit for one strong developer. Preserve source URLs and state collection dates.
 
 Apply this consulting framework:
 
 1. **Trend durability** — distinguish a durable demand shift from a short-lived spike.
-2. **Customer and JTBD** — state the customer type (B2B, B2B2C, or B2C) and name the specific buyer, user, and job to be done. For B2B2C, name both the business partner and the end consumer, and say which one is paying.
+2. **Customer and JTBD** — name the motion (B2B / B2B2C / B2C), the specific buyer (who pays), user (who uses), and job to be done. For B2B2C, name both the business partner and the end consumer.
 3. **Pain evidence** — cite observable complaints, workarounds, spend, or urgency.
 4. **Alternatives** — map incumbent tools, manual workarounds, and their gaps.
 5. **Wedge** — define the narrow initial use case and why it can win.
@@ -38,8 +40,8 @@ Apply this consulting framework:
 
 ## Quality bar
 
-Prefer a focused web app that can be built by one strong developer, offers a clear Stripe-backed purchase path, and solves a real workflow with a defendable wedge. This applies equally to B2B, B2B2C, and B2C. A concept without credible pain evidence, distribution, or falsifiable validation should remain **Watch** or be **Rejected**, whoever the customer is.
+Prefer a focused web app that can be built by one strong developer, offers a clear Stripe-backed purchase path (subscription, one-off, or usage), and solves a real workflow with a defendable wedge. B2B, B2B2C, and B2C are all in scope when the buyer, distribution, and willingness-to-pay story is credible. A concept without credible pain evidence, distribution, or falsifiable validation should remain **Watch** or be **Rejected**.
 
 ## Change log
 
-- 2026-07-30 — Claude (Cowork): Opened customer type to B2B, B2B2C, and B2C at the repo owner's direction. Added the customer-type rule to the operating prompt, extended framework item 2 to require naming the customer type, and made the quality bar explicitly type-neutral. No other operating rules changed.
+- 2026-07-30 — Claude (Cowork): Opened business model scope to B2B, B2B2C, and B2C at the repo owner's direction. A concurrent edit by another agent made the same change; this merge keeps that agent's wording as the base and adds only the per-motion evidence note in the operating prompt and the B2B2C clarification in framework item 2. No other operating rules changed.

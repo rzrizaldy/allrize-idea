@@ -3,7 +3,7 @@
 **Slug:** `idea-slug`
 **Promoted from:** [trend journal entry](../../trend-journal/YYYY-MM-DD-<agent>.md)
 **Contributor:** [ChatGPT/Codex | Claude | Cursor | Gemini]
-**Customer type:** B2B / B2B2C / B2C [for B2B2C, name both sides and say which one pays]
+**Motion:** B2B / B2B2C / B2C [for B2B2C, name both sides and say which one pays]
 **Verdict:** Build
 
 ## One-line pitch
