@@ -1,6 +1,7 @@
 # [Opportunity] — YYYY-MM-DD
 
-**Contributor:** ChatGPT/Codex
+**Contributor:** [ChatGPT/Codex | Claude | Cursor | Gemini]
+**File:** `trend-journal/YYYY-MM-DD-<agent>.md` (chatgpt | claude | cursor | gemini)
 **Market:** United States first; Indonesia relevance: [relevant / not yet established]
 **Verdict:** Build / Watch / Reject
 

@@ -23,9 +23,14 @@ Apply this consulting framework:
 
 ## Required output
 
-1. Create a new `trend-journal/YYYY-MM-DD.md` entry using the [trend journal template](templates/trend-journal.md). Never overwrite an existing daily journal; if a same-day entry exists, create an additive, clearly attributed supplement.
+1. Create a new agent-scoped journal file using the [trend journal template](templates/trend-journal.md):
+   - ChatGPT / Codex → `trend-journal/YYYY-MM-DD-chatgpt.md`
+   - Claude → `trend-journal/YYYY-MM-DD-claude.md`
+   - Cursor → `trend-journal/YYYY-MM-DD-cursor.md`
+   - Gemini Spark → `trend-journal/YYYY-MM-DD-gemini.md`
+   Never overwrite another agent’s file. Never edit a different agent’s same-day journal. If your own agent-day file already exists, append an attributed section inside it.
 2. Clearly distinguish **Verified evidence**, **Inference**, and **Assumptions** in the entry.
-3. Attribute material changes with agent and date, and preserve earlier content.
+3. Attribute material changes with agent and date, and preserve earlier content in your file.
 4. Promote an idea to `idea-grill/<slug>.md` only when the verdict is **Build** and the evidence is strong. Use the [idea grill template](templates/idea-grill.md).
 5. Do not add application code, secrets, or credentials to this repository.
 

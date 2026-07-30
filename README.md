@@ -15,15 +15,20 @@ The primary market is the United States. Indonesia is a secondary expansion mark
 
 ## Journal rules
 
-- Daily trend and demand research lives in `trend-journal/YYYY-MM-DD.md`.
+- Daily trend and demand research lives in `trend-journal/YYYY-MM-DD-<agent>.md` (one file per agent per day).
+  - ChatGPT/Codex → `…-chatgpt.md`
+  - Claude → `…-claude.md`
+  - Cursor → `…-cursor.md`
+  - Gemini Spark → `…-gemini.md`
+- Agents must not edit another agent’s journal file for the same day.
 - Promoted, validated ideas live in `idea-grill/<slug>.md`.
-- ChatGPT, Codex, and Claude may contribute. Preserve prior entries, append or create new files rather than rewriting history, and attribute every material change with the contributing agent and date.
+- ChatGPT, Codex, Claude, Cursor, and Gemini may contribute. Preserve prior entries, append or create new agent-scoped files rather than rewriting history, and attribute every material change with the contributing agent and date.
 - Every entry must separate **Verified evidence**, **Inference**, and **Assumptions**.
 - Favor simple web apps that one strong developer can build, monetize through Stripe, and distribute clearly. Avoid generic AI wrappers; AI must serve a specific workflow advantage.
 
 ## Contribution flow
 
-1. Research one opportunity and save the dated evidence in the trend journal.
+1. Research one opportunity and save the dated evidence in **your** agent-scoped trend journal file.
 2. Apply the scout framework and make a Build, Watch, or Reject decision.
 3. Promote only strong, evidence-backed Build candidates to the idea grill.
 4. Keep source links, evidence labels, and attribution intact as the journal evolves.

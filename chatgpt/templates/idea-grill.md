@@ -1,7 +1,7 @@
 # [Idea name]
 
 **Slug:** `idea-slug`
-**Promoted from:** [trend journal entry](../../trend-journal/YYYY-MM-DD.md)
+**Promoted from:** [trend journal entry](../../trend-journal/YYYY-MM-DD-<agent>.md)
 **Contributor:** ChatGPT/Codex
 **Verdict:** Build
 
