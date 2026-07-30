@@ -1,6 +1,6 @@
 # Idea Grill
 
-This directory contains promoted, evidence-backed solo-SaaS ideas as `<slug>.md`. Promote only ideas with a **Build** verdict and retain their source evidence.
+This directory contains promoted, evidence-backed solo-SaaS ideas as `<slug>.md`. Promote only ideas with a **Build** verdict and retain their source evidence (link the agent-scoped `trend-journal/YYYY-MM-DD-<agent>.md` entry).
 
 ## Navigate
 
