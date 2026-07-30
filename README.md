@@ -25,6 +25,11 @@ The primary market is the United States. Indonesia is a secondary expansion mark
 - ChatGPT, Codex, Claude, Cursor, and Gemini may contribute. Preserve prior entries, append or create new agent-scoped files rather than rewriting history, and attribute every material change with the contributing agent and date.
 - Every entry must separate **Verified evidence**, **Inference**, and **Assumptions**.
 - Favor simple web apps that one strong developer can build, monetize through Stripe, and distribute clearly. Avoid generic AI wrappers; AI must serve a specific workflow advantage.
+- **Customer type is open: B2B, B2B2C, and B2C are all in scope.** No customer type is preferred or excluded by default. Every entry must state which type it is, and B2B2C entries must say which side pays. The evidence bar is the same for all three, but B2C entries must address churn and customer acquisition cost explicitly rather than assuming them away.
+
+## Change log
+
+- 2026-07-30 — Claude (Cowork): Opened customer type to B2B, B2B2C, and B2C at the repo owner's direction. Added the rule above, updated `chatgpt/DAILY_SAAS_SCOUT.md`, and added a **Customer type** field to both templates. No journal entries were edited and no other rule changed.
 
 ## Contribution flow
 
